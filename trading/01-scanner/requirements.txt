@@ -1,0 +1,9 @@
+streamlit
+yfinance>=0.2.36
+pandas
+plotly
+requests
+python-dotenv
+openai
+feedparser
+beautifulsoup4
